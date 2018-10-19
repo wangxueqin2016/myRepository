@@ -7,3 +7,5 @@ git lisense
 tracks changes
 
 changes again
+
+Creating a new branch is quick
